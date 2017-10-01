@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+	It creates converts normal folder in to git repsitory so to make the folder git repository and track the folder we have
+	to initalize first.
