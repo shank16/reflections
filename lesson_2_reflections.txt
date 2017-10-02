@@ -17,4 +17,7 @@ How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 	It will create single master branch with commit history of both branch.  It resembels it
-	
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+	cons of automatic merging- can lead to bug or too many functions for the same task
+	pros- time saving and less irritating as you don't have findout clashes everytime by yourself. 
